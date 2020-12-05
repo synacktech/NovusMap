@@ -1,27 +1,345 @@
 {
 	"Categories": [
-		["NovusPrax", "NovusPrax"],
+		["RedPixel", "redpixel"],
+		["PixelTraa", "pixeltraa"],
+		["Kukistan", "kuk"],
+		["ArtProtectionDivision", "apd"],
+		["NovusPrax", "NovusPrax"]
 		
 	],
 	"Templates": {
-		"firstflag": {
-			"name": "ff.png",
-			"x": 3874,
-			"y": 2336,
-			"width": 355,
-			"height": 184,
-			"categories": ["NovusPrax"],
-			"aliases": ["NovusPrax"]
+		"mb": {
+			"name": "mb.png",
+			"x": 1207,
+			"y": 320,
+			"width": 1713,
+			"height": 810,
+			"categories": ["pixeltraa"],
+			"aliases": ["mainBase", "main", "traa","mb"]
 		},
-		"veggie": {
-			"name": "vg.png",
-			"x": 3874,
-			"y": 2253,
-			"width": 148,
-			"height": 81,
-			"categories": ["NovusPrax"],
-			"aliases": ["NovusPrax"]
+		"op": {
+			"name": "op.png",
+			"x": 136175,
+			"y": -23439,
+			"width": 4644,
+			"height": 1800,
+			"categories": ["pixeltraa"],
+			"aliases": ["outpost","op"]
+		},
+		"cb": {
+            "name": "cb.png",
+            "x": -1341,
+            "y": -897,
+            "width": 507,
+            "height": 513,
+            "categories": ["pixeltraa"],
+			"aliases": ["traaCenter","stevonnie","tiresias","cb"]
+		},
+		"misc_pride": {
+			"name": "misc_pride.png",
+			"x": 1343,
+			"y": -91,
+			"width": 325,
+			"height": 130,
+			"categories": ["pixeltraa"],
+			"aliases": ["pride", "prideflags"]
+		},
+		"misc_seven": {
+			"name": "misc_seven.png",
+			"x": -8588,
+			"y": 11818,
+			"width": 75,
+			"height": 75,
+			"categories": ["pixeltraa"],
+			"aliases": ["sevenpointed"]
+		},
+		"misc_butterfly2": {
+			"name": "misc_butterfly2.png",
+			"x": -7870,
+			"y": 7460,
+			"width": 40,
+			"height": 37,
+			"categories": ["pixeltraa"],
+			"aliases": ["cupha", "prosope"]
+		},
+		"misc_butterfly3": {
+			"name": "misc_butterfly3.png",
+			"x": -4087,
+			"y": 7646,
+			"width": 40,
+			"height": 32,
+			"categories": ["pixeltraa"],
+			"aliases": ["lirentis", "reducta"]
+		},
+		"misc_butterfly4": {
+			"name": "misc_butterfly4.png",
+			"x": 6859,
+			"y": 10372,
+			"width": 42,
+			"height": 39,
+			"categories": ["pixeltraa"],
+			"aliases": ["polyoratus", "icarus"]
+		},
+		"pr": {
+			"name": "pr.png",
+			"x": -900,
+			"y": -1122,
+			"width": 1410,
+			"height": 1195,
+			"categories": ["redpixel"],
+			"aliases": ["pixelgrad"]
+		},
+		"rm": {
+			"name": "rm.png",
+			"x": -3250,
+			"y": 2748,
+			"width": 2340,
+			"height": 1954,
+			"categories": ["redpixel"],
+			"aliases": ["redmenace", "red menace", "bixelgrad"]
+		},
+		"bb": {
+			"name": "bb.png",
+			"x": 4634,
+			"y": 3650,
+			"width": 1431,
+			"height": 838,
+			"categories": ["redpixel"],
+			"aliases": ["blackbase", "bb"]
+		},
+		"redbase": {
+			"name": "redbase.png",
+			"x": 7290,
+			"y": 1739,
+			"width": 690,
+			"height": 534,
+			"categories": ["redpixel"],
+			"aliases": ["red base"]
+		},
+		"rb": {
+			"name": "rb.png",
+			"x": 2386,
+			"y": -3938,
+			"width": 652,
+			"height": 584,
+			"categories": ["redpixel"],
+			"aliases": ["rainbow", "rainbow base", "rb"]
+		},
+		"gp": {
+			"name": "gp.png",
+			"x": 7365,
+			"y": -5061,
+			"width": 1287,
+			"height": 1173,
+			"categories": ["redpixel"],
+			"aliases": ["gp","greaterpixelgrad"]
+		},
+		"ic": {
+			"name": "ic.png",
+			"x": -1986,
+			"y": 665,
+			"width": 928,
+			"height": 768,
+			"categories": ["redpixel"],
+			"aliases": ["ironcorpse", "iron", "corpse", "heatherheyer","heather","lyud","arditi"]
+		},
+		"misc_america": {
+			"name": "misc_america.png",
+			"x": -10300,
+			"y": 4800,
+			"width": 506,
+			"height": 339,
+			"categories": ["redpixel"],
+			"aliases": ["rm_america", "america"]
+		},
+		"pro": {
+			"name": "pro.png",
+			"x": -1244,
+			"y": -114,
+			"width": 475,
+			"height": 618,
+			"categories": ["redpixel"],
+			"aliases": ["protracted", "pro","pokemon"]
+		},
+		"afa": {
+			"name": "afa.png",
+			"x": -2490,
+			"y": 6145,
+			"width": 490,
+			"height": 406,
+			"categories": ["redpixel"],
+			"aliases": ["antifa","antifabase"]
+		},
+		"misc_fidelche": {
+			"name": "misc_fidelche.png",
+			"x": 3128,
+			"y": 3350,
+			"width": 144,
+			"height": 200,
+			"categories": ["redpixel"],
+			"aliases": ["fidel","che","trump","bolsonaro","fidel-che"]
+		},
+		"ccp": {
+			"name": "ccp.png",
+			"x": -2401,
+			"y": 1641,
+			"width": 47,
+			"height": 49,
+			"categories": ["redpixel"],
+			"aliases": ["ccp"]
+		},
+		"ddr": {
+			"name": "ddr.png",
+			"x": 5618,
+			"y": -73,
+			"width": 52,
+			"height": 46,
+			"categories": ["redpixel"],
+			"aliases": ["ddr"]
+		},
+		"lr_mf": {
+			"name": "lr_mf.png",
+			"x": -3734,
+			"y": -674,
+			"width": 406,
+			"height": 207,
+			"categories": ["redpixel"],
+			"aliases": ["lr_mf"]
+		},
+		"misc_afaflag": {
+			"name": "misc_afaflag.png",
+			"x": -1295,
+			"y": -1019,
+			"width": 212,
+			"height": 126,
+			"categories": ["redpixel"],
+			"aliases": ["afa-flag","benis"]
+		},
+		"em": {
+			"name": "em.png",
+			"x": -3687,
+			"y": 2746,
+			"width": 1576,
+			"height": 1058,
+			"categories": ["kuk"],
+			"aliases": ["kukistan","eldritchmenace"]
+		},
+		"cen": {
+			"name": "cen.png",
+			"x": -500,
+			"y": -315,
+			"width": 1076,
+			"height": 670,
+			"categories": ["apd"],
+			"aliases": ["centermisc","cen_full"]
+		},
+		"cen_diamond": {
+			"name": "cen_diamond.png",
+			"x": -109,
+			"y": -107,
+			"width": 219,
+			"height": 217,
+			"categories": ["misc"],
+			"aliases": ["diamond","pyramid"]
+		},
+		"ab_vapu": {
+            "name": "ab_vapu.png",
+            "x": -1465,
+            "y": -553,
+            "width": 646,
+            "height": 283,
+            "categories": ["misc"],
+            "aliases": ["vapu","grano","vapu grano","boxgirl"]
+    },
+		"ab_angler": {
+            "name": "ab_angler.png",
+            "x": -791,
+            "y": 127,
+            "width": 254,
+            "height": 187,
+            "categories": ["misc"],
+            "aliases": ["anglerfish","dory","abyss"]
+    },
+		"ab_wyvern": {
+            "name": "ab_wyvern.png",
+            "x": 770,
+            "y": -411,
+            "width": 172,
+            "height": 181,
+            "categories": ["misc"],
+            "aliases": ["wyvern"]
+		},
+		"ab_knight": {
+            "name": "ab_knight.png",
+            "x": -208,
+            "y": 204,
+            "width": 188,
+            "height": 142,
+            "categories": ["misc"],
+            "aliases": ["knight","horseman"]
+		},
+		"misc_216": {
+			"name": "misc_216.png",
+			"x": 270,
+			"y": 5721,
+			"width": 400,
+			"height": 400,
+			"categories": ["misc"],
+			"aliases": ["216"]
+		},
+		"misc_vedic": {
+			"name": "misc_vedic.png",
+			"x": 695,
+			"y": 5900,
+			"width": 121,
+			"height": 121,
+			"categories": ["misc"],
+			"aliases": ["vedic", "vedicsquare"]
+		},
+		"misc_apetown": {
+			"name": "misc_apetown.png",
+			"x": -1644,
+			"y": -742,
+			"width": 199,
+			"height": 151,
+			"categories": ["misc"],
+			"aliases": ["jimi", "jimmies", "shitposting", "dove","apetown"]
+		},
+		"H": {
+			"name": "H.png",
+			"x": -1125,
+			"y": -248,
+			"width": 106,
+			"height": 66,
+			"categories": ["misc"],
+			"aliases": ["H", "poop", "h", "miru"]
+		},
+		"RosaChallenge": {
+			"name": "RosaChallenge.png",
+			"x": -1495,
+			"y": -239,
+			"width": 110,
+			"height": 227,
+			"categories": ["misc"],
+			"aliases": ["RosaChallenge", "Rosa"]
+		},
+		"tempredline": {
+			"name": "tempredline.png",
+			"x": 325,
+			"y": 346,
+			"width": 173,
+			"height": 152,
+			"categories": ["apd"],
+			"aliases": ["redline"]
+		},
+		"pixelgo": {
+			"name": "pixelgo.png",
+			"x": 10449,
+			"y": -20111,
+			"width": 462,
+			"height": 291,
+			"categories": ["misc"],
+			"aliases": ["monastery"]
 		}
-		}
+	}
 }
-

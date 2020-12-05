@@ -15,8 +15,8 @@
 // @resource     jQueryCss https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.min.css
 // @copyright    Unknown
 // @license      https://creativecommons.org/licenses/by-nc-nd/4.0/
-// @updateURL    https://raw.githubusercontent.com/synacktech/NovusMap/master/NovusMap.js
-// @downloadURL  https://raw.githubusercontent.com/synacktech/NovusMap/master/NovusMap.js
+// @updateURL    https://raw.githubusercontent.com/synacktech/NovusMap/master/NovusMap.user.js
+// @downloadURL  https://raw.githubusercontent.com/synacktech/NovusMap/master/NovusMap.user.js
 // ==/UserScript==
 
 Number['prototype']['between'] = function (_0x157a64, _0x34e888) {
