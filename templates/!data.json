@@ -1,0 +1,27 @@
+{
+	"Categories": [
+		["NovusPrax", "NovusPrax"]
+		
+	],
+	"Templates": {
+		"firstflag": {
+			"name": "ff.png",
+			"x": 3874,
+			"y": 2336,
+			"width": 355,
+			"height": 184,
+			"categories": ["NovusPrax"],
+			"aliases": ["NovusPrax"]
+		},
+		"veggie": {
+			"name": "vg.png",
+			"x": 3874,
+			"y": 2253,
+			"width": 148,
+			"height": 81,
+			"categories": ["NovusPrax"],
+			"aliases": ["NovusPrax"]
+		}
+		}
+	}
+
