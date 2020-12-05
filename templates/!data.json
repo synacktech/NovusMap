@@ -1,6 +1,6 @@
 {
 	"Categories": [
-		["NovusPrax", "NovusPrax"]
+		["NovusPrax", "NovusPrax"],
 		
 	],
 	"Templates": {
@@ -23,5 +23,5 @@
 			"aliases": ["NovusPrax"]
 		}
 		}
-	}
+}
 
