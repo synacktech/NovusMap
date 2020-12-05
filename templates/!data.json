@@ -1,17 +1,21 @@
 {
 	"Categories": [
-		["RedPixel", "redpixel"]
+		["RedPixel", "redpixel"],
+		["PixelTraa", "pixeltraa"],
+		["Kukistan", "kuk"],
+		["ArtProtectionDivision", "apd"],
+		["NovusPrax", "NovusPrax"]
 		
 	],
 	"Templates": {
 
-			"name": "pixelgo.png",
-			"x": 10449,
-			"y": -20111,
-			"width": 462,
-			"height": 291,
-			"categories": ["misc"],
-			"aliases": ["monastery"]
-		}
+			"name": "mb.png",
+			"x": 1207,
+			"y": 320,
+			"width": 1713,
+			"height": 810,
+			"categories": ["pixeltraa"],
+			"aliases": ["mainBase", "main", "traa","mb"]
+		},
 	}
 }
