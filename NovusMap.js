@@ -3,7 +3,7 @@
 // @namespace    synacktech/NovusMap
 // @version      0.13
 // @description  Minimap for NovusPrax
-// @author       Unknown
+// @author       ###
 // @match        http://pixelcanvas.io/*
 // @match        https://pixelcanvas.io/*
 // @grant        GM_addStyle
