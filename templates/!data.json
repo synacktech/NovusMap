@@ -4,11 +4,11 @@
 		["PixelTraa", "pixeltraa"],
 		["Kukistan", "kuk"],
 		["ArtProtectionDivision", "apd"],
-		["NovusPrax", "novusprax"]
+		["Misc", "misc"]
 		
 	],
 	"Templates": {
-
+		"mb": {
 			"name": "mb.png",
 			"x": 1207,
 			"y": 320,
@@ -218,9 +218,9 @@
 		"em": {
 			"name": "em.png",
 			"x": -3687,
-			"y": 2746,
+			"y": 2725,
 			"width": 1576,
-			"height": 1058,
+			"height": 1079,
 			"categories": ["kuk"],
 			"aliases": ["kukistan","eldritchmenace"]
 		},
