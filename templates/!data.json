@@ -9,6 +9,15 @@
 		
 	],
 	"Templates": {
+	    "ff": {
+			"name": "ff.png",
+			"x": 3874,
+			"y": 2336,
+			"width": 355,
+			"height": 184,
+			"categories": ["novusprax"],
+			"aliases": ["mainBase", "main", "traa","mb"]
+		},
 		"mb": {
 			"name": "mb.png",
 			"x": 1207,
