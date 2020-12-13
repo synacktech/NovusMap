@@ -1,0 +1,5 @@
+This is a simple conversion method that uses dithering to convert images. Place a template (in png form) you wish to convert in the templates folder and run the python file, enter its name (without the ".png") and it will produce a converted file in products. The file can be run either directly or through the command terminal.
+
+I've left some example images in the folders to demonstrate its effects. The colour wheels show which colours get the best conversion and the image there shows how my program can be used to create templates for art. I recommend using it as a starting point to fine tune to get a template you want.
+
+This is still in development, soon I wish to add more types of dither and support for transparency. I've commented the code for anyone to look through, so if you find any flaws or bugs please let me know.
