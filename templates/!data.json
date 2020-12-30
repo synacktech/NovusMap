@@ -11,10 +11,10 @@
 	"Templates": {
 	    "beyes": {
 			"name": "beyes.png",
-			"x": 3874,
-			"y": 2336,
-			"width": 355,
-			"height": 184,
+			"x": -1297,
+			"y": -551,
+			"width": 200,
+			"height": 29,
 			"categories": ["novusprax"],
 			"aliases": ["mainBase", "main", "traa","mb"]
 		},
