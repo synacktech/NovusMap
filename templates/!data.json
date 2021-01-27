@@ -9,6 +9,15 @@
 
 	],
 	"Templates": {
+		  "ebcap": {
+		  "name": "ebcap.png",
+		  "x": 4025,
+	  	"y": 2234,
+		  "width": 150,
+	  	"height": 63,
+	  	"categories": ["novusprax"],
+		  "aliases": ["mainBase", "main", "traa","mb"]
+  	},
 	    "num1": {
 	  	"name": "num1.png",
 	  	"x": -1307,
