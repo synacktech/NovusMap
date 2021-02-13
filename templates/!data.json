@@ -9,6 +9,15 @@
 
 	],
 	"Templates": {
+	  	"cult": {
+	  	"name": "cult.png",
+	  	"x": -293,
+	  	"y": 673,
+		  "width": 112,
+	  	"height": 51,
+		  "categories": ["novusprax"],
+		  "aliases": ["novus"]
+	},
 		  "ebcap": {
 		  "name": "ebcap.png",
 		  "x": 4025,
