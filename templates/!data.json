@@ -10,11 +10,11 @@
 	],
 	"Templates": {
 	  	"cult": {
-	  	"name": "cult.png",
-	  	"x": -293,
-	  	"y": 673,
-		  "width": 112,
-	  	"height": 51,
+	  	"name": "iww1.png",
+	  	"x": 3874,
+	  	"y": 2522,
+		  "width": 55,
+	  	"height": 80,
 		  "categories": ["novusprax"],
 		  "aliases": ["novus"]
 	},
@@ -279,6 +279,24 @@
 			"categories": ["apd"],
 			"aliases": ["centermisc","cen_full"]
 		},
+		"mlp": {
+  	"name": "mlp.png",
+  	"x": -964,
+  	"y": 571,
+  	"width": 784,
+  	"height": 718,
+	  "categories": ["kuk"],
+  	"aliases": ["mlp", "ponies", "pony", "my little pony"]
+    },
+    "friendship": {
+  	"name": "friendship.png",
+  	"x": 569,
+  	"y": 346,
+  	"width": 490,
+  	"height": 213,
+  	"categories": ["kuk"],
+  	"aliases": ["friendship","beach"]
+},
 		"cen_diamond": {
 			"name": "cen_diamond.png",
 			"x": -109,
