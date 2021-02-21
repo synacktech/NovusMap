@@ -9,7 +9,7 @@
 
 	],
 	"Templates": {
-	  	"cult": {
+	  	"iww1": {
 	  	"name": "iww1.png",
 	  	"x": 3874,
 	  	"y": 2522,
@@ -18,6 +18,15 @@
 		  "categories": ["novusprax"],
 		  "aliases": ["novus"]
 	},
+	      "revert1": {
+		  	"name": "revert1.png",
+		  	"x": 3931,
+		  	"y": 2522,
+			  "width": 255,
+		  	"height": 88,
+			  "categories": ["novusprax"],
+			  "aliases": ["novus"]
+		},
 		  "ebcap": {
 		  "name": "ebcap.png",
 		  "x": 4025,
