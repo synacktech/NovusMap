@@ -1,9 +1,8 @@
 // ==UserScript==
 // @name         NovusMap
 // @namespace    synacktech/NovusMap
-// @version      0.13
+// @version      0.14
 // @description  Minimap for NovusPrax
-// @author       ###
 // @match        http://pixelcanvas.io/*
 // @match        https://pixelcanvas.io/*
 // @grant        GM_addStyle
