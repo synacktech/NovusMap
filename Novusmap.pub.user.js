@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         NovusMap
 // @namespace    synacktech/NovusMap
-// @version      1.1
-// @description  Minimap for NovusPrax (Mutual aid version)
+// @version      1.1.1
+// @description  Minimap for NovusPrax (Mutual Aid Version)
 // @match        http://pixelcanvas.io/*
 // @match        https://pixelcanvas.io/*
 // @grant        GM_addStyle
