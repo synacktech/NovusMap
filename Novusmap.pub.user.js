@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NovusMap
 // @namespace    synacktech/NovusMap
-// @version      0.14
+// @version      1.1
 // @description  Minimap for NovusPrax (Mutual aid version)
 // @match        http://pixelcanvas.io/*
 // @match        https://pixelcanvas.io/*
@@ -12,7 +12,6 @@
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js
 // @require      https://code.jquery.com/ui/1.12.1/jquery-ui.min.js
 // @resource     jQueryCss https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.min.css
-// @copyright    Unknown
 // @license      https://creativecommons.org/licenses/by-nc-nd/4.0/
 // @updateURL    https://raw.githubusercontent.com/synacktech/NovusMap/master/NovusMap.user.js
 // @downloadURL  https://raw.githubusercontent.com/synacktech/NovusMap/master/NovusMap.user.js
