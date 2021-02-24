@@ -9,12 +9,21 @@
 
 	],
 	"Templates": {
+	  	"kick": {
+		  "name": "kick.png",
+		  "x": 4231,
+		  "y": 2376,
+		  "width": 55,
+		  "height": 80,
+		  "categories": ["novusprax"],
+		  "aliases": ["novus"]
+},
 	  	"iww1": {
 	  	"name": "iww1.png",
 	  	"x": 3874,
 	  	"y": 2522,
-		  "width": 55,
-	  	"height": 80,
+		  "width": 112,
+	  	"height": 143,
 		  "categories": ["novusprax"],
 		  "aliases": ["novus"]
 	},
