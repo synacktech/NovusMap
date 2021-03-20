@@ -9,6 +9,15 @@
 
 	],
 	"Templates": {
+		  "logofull": {
+		  "name": "logofull.png",
+		  "x": 4224,
+		  "y": 2297,
+		  "width": 211,
+		  "height": 38,
+		  "categories": ["novusprax"],
+		  "aliases": ["novus"]
+},
 	  	"arose": {
 	  	"name": "arose.png",
 	  	"x": 4235,
