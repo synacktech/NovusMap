@@ -27,6 +27,15 @@
 	  	"categories": ["novusprax"],
 	  	"aliases": ["novus"]
 },
+	  	"arose": {
+	  	"name": "towerfix.png",
+	  	"x": -1532,
+	  	"y": -551,
+	  	"width": 55,
+	  	"height": 231,
+	  	"categories": ["novusprax"],
+	  	"aliases": ["novus"]
+},
 	  	"kick": {
 		  "name": "kick.png",
 		  "x": 4231,
@@ -73,13 +82,13 @@
 		  "aliases": ["mainBase", "main", "traa","mb"]
 	  },
 	    "beyes": {
-			"name": "beyes.png",
-			"x": -1297,
-			"y": -551,
-			"width": 200,
-			"height": 29,
+			"name": "boing.png",
+			"x": 3244,
+			"y": 1445,
+			"width": 465,
+			"height": 456,
 			"categories": ["novusprax"],
-			"aliases": ["mainBase", "main", "traa","mb"]
+			"aliases": ["novus",]
 		},
 	    "ff": {
 			"name": "ff.png",
@@ -112,8 +121,8 @@
             "name": "cb.png",
             "x": -1644,
             "y": -1019,
-            "width": 507,
-            "height": 513,
+            "width": 810,
+            "height": 635,
             "categories": ["pixeltraa"],
 			"aliases": ["traaCenter","stevonnie","tiresias","cb"]
 		},
@@ -314,25 +323,25 @@
 			"height": 670,
 			"categories": ["apd"],
 			"aliases": ["centermisc","cen_full"]
-		},
+        },
 		"mlp": {
-  	"name": "mlp.png",
-  	"x": -964,
-  	"y": 571,
-  	"width": 784,
-  	"height": 718,
-	  "categories": ["kuk"],
-  	"aliases": ["mlp", "ponies", "pony", "my little pony"]
-    },
-    "friendship": {
-  	"name": "friendship.png",
-  	"x": 569,
-  	"y": 346,
-  	"width": 490,
-  	"height": 213,
-  	"categories": ["kuk"],
-  	"aliases": ["friendship","beach"]
-},
+  	        "name": "mlp.png",
+  	        "x": -964,
+  	        "y": 571,
+  	        "width": 784,
+  	        "height": 718,
+	        "categories": ["kuk"],
+  	        "aliases": ["mlp", "ponies", "pony", "my little pony"]
+        },
+        "friendship": {
+  	        "name": "friendship.png",
+  	        "x": 569,
+  	        "y": 346,
+  	        "width": 490,
+  	        "height": 213,
+  	        "categories": ["kuk"],
+  	        "aliases": ["friendship","beach"]
+        },
 		"cen_diamond": {
 			"name": "cen_diamond.png",
 			"x": -109,
@@ -350,7 +359,7 @@
             "height": 283,
             "categories": ["misc"],
             "aliases": ["vapu","grano","vapu grano","boxgirl"]
-    },
+        },
 		"ab_angler": {
             "name": "ab_angler.png",
             "x": -791,
@@ -359,7 +368,7 @@
             "height": 187,
             "categories": ["misc"],
             "aliases": ["anglerfish","dory","abyss"]
-    },
+        },
 		"ab_wyvern": {
             "name": "ab_wyvern.png",
             "x": 770,
